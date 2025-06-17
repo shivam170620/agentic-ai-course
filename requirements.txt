@@ -1,0 +1,6 @@
+langchain
+langchain_community
+langchain_openai
+wikipedia
+youtube_search
+langchain_tavily
