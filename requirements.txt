@@ -4,3 +4,5 @@ langchain_openai
 wikipedia
 youtube_search
 langchain_tavily
+langgraph
+ipython
