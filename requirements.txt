@@ -6,3 +6,10 @@ youtube_search
 langchain_tavily
 langgraph
 ipython
+langchain_google_genai
+langchain_huggingface
+sentence_transformers
+pypdf
+chromadb
+langchain_groq
+yfinance 
