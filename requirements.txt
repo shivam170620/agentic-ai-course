@@ -13,3 +13,5 @@ pypdf
 chromadb
 langchain_groq
 yfinance 
+langchain_tavily
+langchain_experimental
